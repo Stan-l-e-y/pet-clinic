@@ -1,4 +1,4 @@
-package ca.gbc.petclinic;
+package ca.gbc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
