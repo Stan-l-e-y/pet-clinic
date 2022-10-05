@@ -1,4 +1,4 @@
-package model;
+package ca.gbc.model;
 
 public class Person {
     private String firstName;

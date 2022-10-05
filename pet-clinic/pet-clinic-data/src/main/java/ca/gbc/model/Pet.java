@@ -1,4 +1,4 @@
-package model;
+package ca.gbc.model;
 
 import java.time.LocalDate;
 
