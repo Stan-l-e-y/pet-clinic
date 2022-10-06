@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7ea396c-f4ce-44df-a5bc-99555daa97d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-data/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-data/src/main/java/ca/gbc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-data/src/main/java/model/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-data/src/main/java/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-web/src/main/java/ca/gbc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pet-clinic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic/src/main/java/ca/gbc/petclinic/PetClinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic-web/src/main/java/ca/gbc/PetClinicApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +25,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Stanley/JavaWeb/pet-clinic"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664940758736</updated>
       <workItem from="1664940760060" duration="13000" />
+      <workItem from="1665085867162" duration="737000" />
     </task>
     <servers />
   </component>
